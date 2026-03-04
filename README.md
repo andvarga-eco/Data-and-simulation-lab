@@ -10,4 +10,5 @@ Acá encontrará los ejercicios de análisis de datos y de simulación que uso e
 
 ## Pensamiento Económico 2
 
-- [Distribución funcional del ingreso **R**](https://colab.research.google.com/drive/1-CUwmB0NX7KkYZmfqqfxurh7_I60IHpx?usp=sharing)
+- [Simulación: distribución funcional del ingreso **R**](https://colab.research.google.com/drive/1-CUwmB0NX7KkYZmfqqfxurh7_I60IHpx?usp=sharing)
+- [Evolución del producto, el capital y el trabajo para Colombia: 1970-2023 **Pythin**](https://colab.research.google.com/drive/1Cjb0JmWF6dgBpvhTJbrjKEPG2R8tDdaX?usp=sharing)
