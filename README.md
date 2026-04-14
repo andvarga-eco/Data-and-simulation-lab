@@ -7,6 +7,7 @@ Acá encontrará los ejercicios de análisis de datos y de simulación que uso e
 - [Evolución histórica de las emisiones de GEI **R**](https://colab.research.google.com/drive/1yGt95t0LQyyl_RTzcQB9g_l8Kumb1FMO?usp=sharing)
 - [Evolución histórica de las emisiones de GEI **Python**](https://colab.research.google.com/drive/1XIuC7ev_zgKeo-bUUouIk33mYtX9FSY4?usp=sharing)
 - [Identidad de Kaya](https://colab.research.google.com/drive/1XqcbfPZKXOfK0XcsStibDk_-F1-AAUoY?usp=sharing)
+- [Proyecto VCU Carbono azúl](https://colab.research.google.com/drive/1fD3eMowXh4FRL8SMgQ9q0ytqJT5q3aZw?usp=sharing)
 
 ## Pensamiento Económico 2
 
